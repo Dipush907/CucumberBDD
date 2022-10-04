@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="0.773">
+    <testcase classname="log in to application" name="Log in to mpower application" time="0.42">
+        <system-out><![CDATA[Given Open the browser......................................................passed
+And Navigate to application.................................................passed
+When User provides Valid credentials........................................passed
+And click on log in button..................................................passed
+Then User is moved to TOA page..............................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
